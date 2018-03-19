@@ -2,6 +2,7 @@
   "name" : "Disable Animations on Battery",
   "description" : "Turns off animations when not on AC power.",
   "uuid" : "disable-animations-on-battery@rliang.github.com",
+  "url": "https://github.com/rliang/gnome-shell-extension-disable-animations-on-battery",
   "shell-version" : [
     "3.14",
     "3.16",
